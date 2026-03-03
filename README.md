@@ -1,3 +1,3 @@
 ## Hello! The name is Risan.
 
-Studying Computer Engineering + Interested in Cyber Security.
+Computer Engineering student and self-taught security enthusiast. Focused on offensive security, specifically Web Penetration Testing.
