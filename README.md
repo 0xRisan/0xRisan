@@ -1,5 +1,3 @@
-## Hi there 👋
+## Hello! The name is Risan
 
-Studying Computer Engineering + Cyber Security enthusiast
-
-- **X (Twitter):** [0x_Risan] (https://x.com/0x_Risan)
+Studying Computer Engineering + Cyber Security enthusiast.
