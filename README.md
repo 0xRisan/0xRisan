@@ -1,3 +1,3 @@
-## Hello! The name is Risan
+## Hello! The name is Risan.
 
-Studying Computer Engineering + Cyber Security enthusiast.
+Studying Computer Engineering + Interested in Cyber Security.
